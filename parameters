@@ -1,0 +1,16 @@
+#USER set pipeName
+pipeName=MARIO
+
+#USER set #stepName to stop a process,
+steps=genericCall genericStop newCall newStop #skippedCall
+
+#USER set /path/to/refgen.refType
+refGen=/home/AAFC-AAC/holdens/deepGBSII/refGen/chr5H.fa
+
+#USER set refType, not .refType
+refType=fa
+
+#USER set Y to restart main log each run, any other value to add to previous log
+newLog=Y
+
+
