@@ -5,9 +5,6 @@ Program calls are logged at runtime for easy and accurate documentation.
 Rapidly add and edit parameters.
 Skip and reorder steps without editing code.
 
-#### Contact
-steven.douglas.holdenHATgmail.com
-
 ## Parameters
 
 After cloning the repository edit the parameters document
@@ -96,44 +93,3 @@ eg. if previousFile.type exists in data, a new File.type will match and not be r
 If the count of files produced differs from the count of file names displayed then this is occuring and you should check in data to identify the output.
 
 While debugging environment and calls, setting newLog=Y prevents a buildup of irrelevant run logs.
-
-
-Mario Christmas :)
-
-```
-                            . '  ' .
-                          '    /\    '
-                         +   ' || '   +
-                            |\ || /|
-                       ' - . \\||// . - '
-                        -= <>>>><<<<> =-
-                       . - ' //||\\ ' - .
-                            |/ || \|
-                         +   . || .   +
-                          .    ||    .
-                            ' .||. '
-                               \/
-
-                               /\
-                              //\\
-                             //||\\
-                            // || \\
-                           //\ || /\\
-                          //'.\||/.'\\
-                         //___>  <___\\
-                        //------------\\
-                       //              \\
-                      //          .-"-. \\
-                     //          (  (`\) \\
-                    //            '-/| `\ \\
-                   //  .-"-.       / |  || \\
-                  //  (.-.  )     /  |  ||  \\
-                   || / /)-'     =`-.|  || ||
-                   ||/ / '-| .-""-.  | =\| ||
-                   |/  |'./ (__()__) |   | ||
-                   /   /\====\    /==|   |=||
-                  /_.-'  |    >--<   |-.-| ||
-                   |----'            `-.-' ||
-
-
-```
